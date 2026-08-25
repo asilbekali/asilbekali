@@ -23,3 +23,8 @@ Hey I'm Asilbek Full Stack Software Engineer
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/asilbekali/asilbekali/snake-output/snake.svg" alt="Snake animation" />
+
+###
