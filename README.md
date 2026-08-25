@@ -21,8 +21,5 @@ Hey I'm Asilbek Full Stack Software Engineer
 ---
 [![](https://komarev.com/ghpvc/?username=asilbekali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/asilbekali/asilbekali/snake-output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
